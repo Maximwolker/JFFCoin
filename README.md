@@ -12,3 +12,5 @@ The project is designed for research purposes.
 - Pre-generation using the finished script.
 
 Platforms: Mac OS X, Windows, Linux (Android, iOS)
+
+![Wallet example](https://raw.githubusercontent.com/Maximwolker/JFFCoin/master/wallet_example.png)
